@@ -1,5 +1,5 @@
 # MathVision-Interactive-Mathematics-Learning-Platform
-# MathVision – Interactive Mathematics Learning Platform
+
 
 An interactive mathematics learning platform built using HTML5, CSS3, Bootstrap 5, and JavaScript.
 
